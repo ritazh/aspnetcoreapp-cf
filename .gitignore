@@ -1,0 +1,7 @@
+.vs/
+.vscode/
+artifacts/
+*.xproj.user
+obj/
+bin/
+project.lock.json
